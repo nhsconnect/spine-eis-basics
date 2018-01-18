@@ -104,7 +104,7 @@ repository: nhsconnect/spine-eis-basics
 gist:
   noscript: false
 
-gems:
+plugins:
    - jekyll-github-metadata
    - jekyll-mentions
    - jemoji
